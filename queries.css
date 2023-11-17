@@ -1,0 +1,15 @@
+@media(max-width:861px) {
+
+
+.grid-2 {
+    display: flex!important;
+    align-items: center!important;
+}
+
+.img-wrapper {
+    width: 25px;
+    height: 25px;
+}
+
+}
+   
