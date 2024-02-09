@@ -19,6 +19,23 @@ body {
 
 }
 
+.lang{
+  padding: 15px;
+}
+
+.lang svg{
+  width: 30px;
+  height: 20px;
+  background-color: transparent;
+  
+}
+
+.lang-btn:hover {
+  cursor: pointer;
+}
+
+
+
 
 section h1{
   text-transform: uppercase;
@@ -253,15 +270,18 @@ svg {
   display: flex;
   flex-direction: column;
   align-items: center;
-    padding: 50px 20px 20px 20px;
+  padding: 50px 20px 20px 20px;
+  
 }
+
+
 
 .details{
   font-size: 18px;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 6fr;
-    padding: 50px 20px 20px 20px;
+  padding: 50px 20px 20px 20px;
 }
 
 .box4{
