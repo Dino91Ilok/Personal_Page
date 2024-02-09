@@ -253,6 +253,7 @@ svg {
   display: flex;
   flex-direction: column;
   align-items: center;
+    padding: 50px 20px 20px 20px;
 }
 
 .details{
@@ -260,6 +261,7 @@ svg {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 6fr;
+    padding: 50px 20px 20px 20px;
 }
 
 .box4{
